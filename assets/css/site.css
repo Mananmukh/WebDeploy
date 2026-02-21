@@ -1,0 +1,16 @@
+:root{
+  --mm-text:#1f2937;
+  --mm-muted:#6b7280;
+  --mm-link:#0b5ed7;
+  --mm-border:rgba(0,0,0,.08);
+}
+body{ color:var(--mm-text); }
+a{ color:var(--mm-link); text-decoration:none; }
+a:hover{ text-decoration:underline; }
+.mm-hero-title{ font-weight:700; letter-spacing:.2px; }
+.mm-subtitle{ color:var(--mm-muted); margin-top:.25rem; }
+.mm-rule{ border-top:1px solid var(--mm-border); margin:1rem 0 1.25rem; }
+.mm-card{ border:1px solid var(--mm-border); border-radius:14px; padding:18px; background:#fff; }
+.mm-profile{ width:160px; height:160px; border-radius:18px; object-fit:cover; border:1px solid var(--mm-border); }
+.mm-small{ color:var(--mm-muted); font-size:.95rem; }
+.mm-footer{ color:var(--mm-muted); font-size:.9rem; padding:2rem 0; }
