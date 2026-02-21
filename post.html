@@ -1,0 +1,9 @@
+---
+layout: default
+---
+<div class="mb-3">
+  <h1 class="mm-hero-title">{{ page.title }}</h1>
+  <div class="mm-small">{{ page.date | date: "%B %d, %Y" }}{% if page.tags %} · {{ page.tags | join: ", " }}{% endif %}</div>
+</div>
+<div class="mm-rule"></div>
+{{ content }}
