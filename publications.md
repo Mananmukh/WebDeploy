@@ -50,7 +50,7 @@ permalink: /publications/
     Persistent inflammation, autoantibodies and aberrant B cells predict the development of autoimmune disease in patients with post-acute COVID-19 sequelae.  
     <em>Planned submission to Nature Communications.</em>  
     <br>
-    <small>*Co-first authorship</small>
+   
   </li>
 </ul>
 
