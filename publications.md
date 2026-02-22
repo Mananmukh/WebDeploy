@@ -28,6 +28,12 @@ permalink: /publications/
     <em>Respiratory burden in post acute COVID 19 sequelae associates with systemic inflammation.</em>
     <strong>ERJ Open Research</strong>, 2025.
   </li>
+  </li>
+  <li class="mt-2">
+  Purohith, D., Chaudhary, M., Gomes, A., Rajapakse, N., Das, A., Dhanvanthry, N., Brown, M., <strong>Mukherjee, M.</strong> and Singh, R.S. 
+    <em>Men in menopause? Experimental verification of the mate choice theory with Drosophila melanogaster shows both sexes can undergo menopause</em>
+    <strong>PLOS ONE</strong>, 2025.
+  </li>
 </ol>
 
 <p class="mt-3">
