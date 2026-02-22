@@ -34,7 +34,9 @@ permalink: /publications/
     <em>Men in menopause? Experimental verification of the mate choice theory with Drosophila melanogaster shows both sexes can undergo menopause.</em>
     <strong>PLOS ONE</strong>, 2025.
   </li>
-  <h2>Finished / Near-Completion Projects</h2>
+
+</ol>
+ <h2>Finished / Near-Completion Projects</h2>
 
 <ul>
   <li>
@@ -52,7 +54,7 @@ permalink: /publications/
   </li>
 </ul>
 
----
+
 
 <h2>Ongoing Collaborations</h2>
 
@@ -74,9 +76,6 @@ permalink: /publications/
     Collaboration with Queen’s University and McGill University, Division of Clinical and Translational Research.
   </li>
 </ul>
-
-</ol>
-
 <p class="mt-3">
 For the full list, see <a href="https://scholar.google.co.in/citations?hl=en&user=iglyGm0AAAAJ">Google Scholar</a>.
 </p>
