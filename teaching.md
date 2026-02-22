@@ -19,12 +19,7 @@ permalink: /teaching/
 Enrollment: 211 students
 </p>
 
-<ul>
-  <li>Prepared and delivered lectures in introductory biostatistics.</li>
-  <li>Designed and graded quizzes, midterms, and final examinations.</li>
-  <li>Provided academic support through scheduled office hours and individual consultations.</li>
-  <li>Managed course coordination and responded to high-volume student inquiries.</li>
-</ul>
+
 
 ---
 
