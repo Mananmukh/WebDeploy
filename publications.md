@@ -7,7 +7,7 @@ permalink: /publications/
 <h1 class="mm-hero-title">Selected publications</h1>
 <div class="mm-rule"></div>
 
-<ol>
+<ul>
   <li>
     <strong>Mukherjee, M.</strong>, Balakrishnan, N., Kumar, S., Deen, M. J.
     <em>Satterthwaite Approximation of the Distribution of SPE Scores: An R Simulation Based Improvement of the R PCA Based Outlier Detection Method.</em>
@@ -35,7 +35,8 @@ permalink: /publications/
     <strong>PLOS ONE</strong>, 2025.
   </li>
 
-</ol>
+<ul>
+
  <h2>Finished / Near-Completion Projects</h2>
 
 <ul>
@@ -49,8 +50,7 @@ permalink: /publications/
     <strong>Tan, N.S.*; Zhang, K.*; Mukherjee, M.*; et al.</strong>  
     Persistent inflammation, autoantibodies and aberrant B cells predict the development of autoimmune disease in patients with post-acute COVID-19 sequelae.  
     <em>Planned submission to Nature Communications.</em>  
-    <br>
-   
+    <br> 
   </li>
 </ul>
 
@@ -76,6 +76,7 @@ permalink: /publications/
     Collaboration with Queen’s University and McGill University, Division of Clinical and Translational Research.
   </li>
 </ul>
+
 <p class="mt-3">
 For the full list, see <a href="https://scholar.google.co.in/citations?hl=en&user=iglyGm0AAAAJ">Google Scholar</a>.
 </p>
