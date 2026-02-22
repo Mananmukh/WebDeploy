@@ -27,13 +27,54 @@ permalink: /publications/
     Chiu, M. N., Chowdhury, A., Zhang, K., <strong>Mukherjee, M.</strong>, et al.
     <em>Respiratory burden in post acute COVID 19 sequelae associates with systemic inflammation.</em>
     <strong>ERJ Open Research</strong>, 2025.
-  </li>
+  
   </li>
   <li class="mt-2">
   Purohith, D., Chaudhary, M., Gomes, A., Rajapakse, N., Das, A., Dhanvanthry, N., Brown, M., <strong>Mukherjee, M.</strong> and Singh, R.S. 
-    <em>Men in menopause? Experimental verification of the mate choice theory with Drosophila melanogaster shows both sexes can undergo menopause</em>
+    <em>Men in menopause? Experimental verification of the mate choice theory with Drosophila melanogaster shows both sexes can undergo menopause.</em>
     <strong>PLOS ONE</strong>, 2025.
   </li>
+  <h2>Finished / Near-Completion Projects</h2>
+
+<ul>
+  <li>
+    <strong>Mukherjee, M., Faisal, A.I., Balakrishnan, N., Kumar, S., Deen, M.J.</strong>  
+    Understanding wearable sensor-based patient-level gait predictions using an interpretable Bayesian regression tree framework.  
+    <em>Planned submission to The Lancet Digital Health.</em>
+  </li>
+
+  <li>
+    <strong>Tan, N.S.*; Zhang, K.*; Mukherjee, M.*; et al.</strong>  
+    Persistent inflammation, autoantibodies and aberrant B cells predict the development of autoimmune disease in patients with post-acute COVID-19 sequelae.  
+    <em>Planned submission to Nature Communications.</em>  
+    <br>
+    <small>*Co-first authorship</small>
+  </li>
+</ul>
+
+---
+
+<h2>Ongoing Collaborations</h2>
+
+<ul>
+  <li>
+    <strong>Charcot–Leyden Crystals (CLCs) Study</strong>  
+    Collaboration with the Firestone Institute for Respiratory Health and the Research Institute of St. Joe’s Hamilton.
+  </li>
+
+  <li>
+    <strong>Early-Life Exposome Profiles and Atopic Diseases</strong>  
+    Collaboration with Queen’s University, Department of Public Health Sciences.  
+    Supported by the Canadian Institutes of Health Research (CIHR).
+  </li>
+
+  <li>
+    <strong>Longitudinal Spirometry Change in Adults</strong>  
+    Evaluation of statistical modeling strategies to improve risk factor epidemiology and clinical trial efficiency.  
+    Collaboration with Queen’s University and McGill University, Division of Clinical and Translational Research.
+  </li>
+</ul>
+
 </ol>
 
 <p class="mt-3">
