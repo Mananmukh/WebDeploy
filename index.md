@@ -38,9 +38,4 @@ and clear communication of results. I also enjoy teaching and mentoring, and I h
 McMaster University for large undergraduate statistics courses.
 </p>
 
-<h2 class="mt-4">News</h2>
-<div class="mm-rule"></div>
-<ul>
-  <li><strong>Feb 2026</strong> Continued CIHR supported work on exposome profiles and pediatric atopic outcomes.</li>
-  <li><strong>Feb 2026</strong> Ongoing collaboration on longitudinal spirometry change modeling strategies with Queen’s and McGill.</li>
-</ul>
+
