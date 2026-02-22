@@ -7,7 +7,7 @@ permalink: /blog/
 <h1 class="mm-hero-title">Blog</h1>
 <div class="mm-rule"></div>
 
-<p class="mm-small">Short notes on papers, modeling decisions, and practical workflows.</p>
+
 
 <div class="row g-3 mt-2">
 {% for post in site.posts %}
